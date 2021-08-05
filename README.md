@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @ghavaze!
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning HTML, CSS, JavaScript and technologies connected to Frontend (SASS, Flexbox, CSS Grid, etc.).
-- 💞️ I’m looking to collaborate on small project which will give me an opportunity to develop my skills.
